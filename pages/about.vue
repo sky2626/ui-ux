@@ -31,7 +31,7 @@
     </div>
 
     <!-- about section-->
-    <div class="flex flex-col md:flex-row gap-[24px] justify-center my-36">
+    <div class="flex flex-col md:flex-row gap-[24px] justify-center my-36 mx-[18px]">
         <div class="flex justify-center md:justify-start">
             <img src="/public/img.svg" alt="">
         </div>
@@ -103,7 +103,7 @@ merging creativity with data-driven decisions to provide exceptional user experi
             <div class="flex flex-col justify-center">
                 <div class="flex flex-col gap-[16px]">
                     <p class="font-bold text-lg">Communication</p>
-                    <div class="flex gap-[16px] flex-row-3 justify-center">
+                    <div class="grid gap-[16px] place-items-center grid-cols-2 md:grid-cols-6 max-w-[200px] md:max-w-[650px]">
                         <div class="font-semibold flex flex-col justify-center items-center w-[100px] border-2 border-black rounded-xl p-[8px] hover:bg-black hover:text-white gap-[8px]">
                             <IconsSlack />
                             <p>Slack</p>

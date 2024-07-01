@@ -3,23 +3,23 @@
         <div>
             <div class="flex items-center justify-center">
                 <img src="/public/Star1.svg" alt="Star" loading="lazy">
-                <img src="/public/hand.svg" alt="Waving Handing" width="100" height="106" loading="lazy">
-                <p class="text-xl md:text-3xl text-wrap" loading="lazy">, my name is Salu Alhassan and am a</p>
+                <img src="/public/hand.svg" alt="Waving Handing" width="60" height="60" loading="lazy">
+                <p class="text-xl md:text-2xl text-wrap" loading="lazy">, my name is Salu Alhassan and am a</p>
             </div>
             <div class="flex flex-row gap-6 justify-center">
                 <img src="/public/Star2.svg" alt="" loading="lazy">
-                <p class="text-6xl md:text-8xl font-extrabold">UX & UI</p>
+                <p class="text-6xl font-extrabold">UX & UI</p>
                 <img src="/public/Star2.svg" alt="" loading="lazy">
             </div>
             <div class="flex flex-row gap-[18px] relative justify-center">
-                <div class="">
+                <div class="max-w-[600px]">
                     <img src="/public/Designer.svg" alt="" loading="lazy"> 
                 </div>
                 <div>
                     <img src="/public/Star3.svg " alt="star" width="46" height="40" loading="lazy">
                 </div>
             </div>
-            <div class="top-[300px] md:top-[340px] left-[18%] md:left-[40%] absolute">
+            <div class="top-[300px] md:top-[290px] left-[50px] md:left-[35%] absolute">
                 <div class="relative">
                     <img src="/public/img.svg " alt="img of me" width="349" height="418" loading="lazy">
                     <div class="relative top-[-95px] bg-gradient-to-t from-white min-h-24"></div>
