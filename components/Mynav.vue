@@ -6,7 +6,7 @@
           <IconsClose v-if="isOpen" />
         </button>
     </div>
-    <nav class="hidden md:block mt-2">
+    <nav :class="isOpen ? 'block' : 'hidden'" class="hidden md:block mt-2">
       <div class="flex flex-row justify-between px-[150px] ">
         <div class="flex flex-row gap-2 items-center ">
           <img src="/public/logo.svg" alt="logo img" hight="34" width="34">

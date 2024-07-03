@@ -103,7 +103,7 @@ merging creativity with data-driven decisions to provide exceptional user experi
             <div class="flex flex-col justify-center">
                 <div class="flex flex-col gap-[16px]">
                     <p class="font-bold text-lg">Communication</p>
-                    <div class="grid gap-[16px] place-items-center grid-cols-2 md:grid-cols-6 max-w-[200px] md:max-w-[650px]">
+                    <div class="grid gap-[18px] place-items-center grid-cols-2 md:grid-cols-6 max-w-[200px] md:max-w-[650px]">
                         <div class="font-semibold flex flex-col justify-center items-center w-[100px] border-2 border-black rounded-xl p-[8px] hover:bg-black hover:text-white gap-[8px]">
                             <IconsSlack />
                             <p>Slack</p>
