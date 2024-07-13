@@ -14,49 +14,49 @@
             <a href="#">
                 <div class="font-semibold w-[250px] rounded-lg hover:bg-black hover:text-white gap-[8px]
                 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
-                    <div><img  src="/public/projectone.png" alt="project img" height="400" width="450" loading="lazy" ></div>
+                    <div class="h-[130px]" ><img  src="/public/projectone.png" alt="project img" height="400" width="450" loading="lazy" ></div>
                     <p class="h-[80px] p-[16px] border-2  border-black rounded-b-lg items-center flex" >project Name</p>
                 </div>
             </a>
             <a href="#">
                 <div class="font-semibold w-[250px] rounded-lg hover:bg-black hover:text-white gap-[8px]
                 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
-                    <div><img src="/public/projectone.png" alt="project img" height="400" width="450" loading="lazy" ></div>
+                    <div class="h-[130px]" ><img src="/public/work.png" alt="project img" height="400" width="450" loading="lazy" ></div>
+                    <p class="h-[80px] p-[16px] border-2  border-black rounded-b-lg items-center flex" >Semades</p>
+                </div>
+            </a>
+            <a href="#">
+                <div class="font-semibold w-[250px] rounded-lg hover:bg-black hover:text-white gap-[8px]
+                transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
+                    <div class="h-[130px]" ><img src="/public/work2.png" alt="project img" height="400" width="450" loading="lazy" ></div>
+                    <p class="h-[80px] p-[16px] border-2  border-black rounded-b-lg items-center flex" >Mobile app</p>
+                </div>
+            </a>
+            <a href="#">
+                <div class="font-semibold w-[250px] rounded-lg hover:bg-black hover:text-white gap-[8px]
+                transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
+                    <div class="h-[130px]" ><img src="/public/projectone.png" alt="project img" height="400" width="450" loading="lazy" ></div>
                     <p class="h-[80px] p-[16px] border-2  border-black rounded-b-lg items-center flex" >project Name</p>
                 </div>
             </a>
             <a href="#">
                 <div class="font-semibold w-[250px] rounded-lg hover:bg-black hover:text-white gap-[8px]
                 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
-                    <div><img src="/public/projectone.png" alt="project img" height="400" width="450" loading="lazy" ></div>
+                    <div class="h-[130px]"><img src="/public/projectone.png" alt="project img" height="400" width="450" loading="lazy" ></div>
                     <p class="h-[80px] p-[16px] border-2  border-black rounded-b-lg items-center flex" >project Name</p>
                 </div>
             </a>
             <a href="#">
                 <div class="font-semibold w-[250px] rounded-lg hover:bg-black hover:text-white gap-[8px]
                 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
-                    <div><img src="/public/projectone.png" alt="project img" height="400" width="450" loading="lazy" ></div>
+                    <div class="h-[130px]"><img src="/public/projectone.png" alt="project img" height="400" width="450" loading="lazy" ></div>
                     <p class="h-[80px] p-[16px] border-2  border-black rounded-b-lg items-center flex" >project Name</p>
                 </div>
             </a>
             <a href="#">
                 <div class="font-semibold w-[250px] rounded-lg hover:bg-black hover:text-white gap-[8px]
                 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
-                    <div><img src="/public/projectone.png" alt="project img" height="400" width="450" loading="lazy" ></div>
-                    <p class="h-[80px] p-[16px] border-2  border-black rounded-b-lg items-center flex" >project Name</p>
-                </div>
-            </a>
-            <a href="#">
-                <div class="font-semibold w-[250px] rounded-lg hover:bg-black hover:text-white gap-[8px]
-                transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
-                    <div><img src="/public/projectone.png" alt="project img" height="400" width="450" loading="lazy" ></div>
-                    <p class="h-[80px] p-[16px] border-2  border-black rounded-b-lg items-center flex" >project Name</p>
-                </div>
-            </a>
-            <a href="#">
-                <div class="font-semibold w-[250px] rounded-lg hover:bg-black hover:text-white gap-[8px]
-                transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
-                    <div><img src="/public/projectone.png" alt="project img" height="400" width="450" loading="lazy" ></div>
+                    <div class="h-[130px]"><img src="/public/projectone.png" alt="project img" height="400" width="450" loading="lazy" ></div>
                     <p class="h-[80px] p-[16px] border-2  border-black rounded-b-lg items-center flex" >project Name</p>
                 </div>
             </a>

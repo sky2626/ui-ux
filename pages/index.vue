@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-col gap-[18px] pt-8 main h-screen">
-        <div>
+        <div class="mt-[50px]" >
             <div class="flex items-center justify-center mx-[18px]">
                 <img src="/public/Star1.svg" alt="Star" loading="lazy">
                 <img src="/public/hand.svg" alt="Waving Handing" width="60" height="60" loading="lazy">
