@@ -1,11 +1,11 @@
 <template>
     <!--profile section and social media-->
     <div>
-        <div class="flex justify-center flex-col items-center gap-[24px] h-[500px] bg-gray-300 mt-4">
+        <div class="flex justify-center flex-col items-center gap-[24px] h-[550px] bg-gray-300 pt-8">
             <div class="bg-[#D4C3EF] rounded-full h-[298px] w-[298px] flex justify-center items-center flex-col gap-8">
                 <div class="[h-200px] w-[200px]">
                     <img src="/public/profile.png" 
-                    class="rounded-full "
+                    class="rounded-full"
                     height="200" width="200" alt="profile img">
                 </div>
             </div>
@@ -31,12 +31,14 @@
     </div>
 
     <!-- about section-->
-    <div class="flex flex-col md:flex-row gap-[24px] justify-center my-36 mx-[18px]">
-        <div class="flex justify-center md:justify-start">
-            <img src="/public/img.svg" alt="">
-        </div>
-        <div class="flex gap-4 flex-col">
-            <h3 class="font-semibold">- Discover</h3>
+    <div class="my-36 px-[18px] md:px-[88px]">
+        <h3 class="font-semibold text-center pb-[18px]">- Discover</h3>
+        <div class="flex flex-col md:flex-row gap-[24px] justify-center " >
+            <div class="flex justify-center md:justify-start">
+                <img src="/public/img.svg" alt="">
+            </div>
+            <div class="flex gap-4 flex-col">
+            
             <h1 class="font-bold text-xl">About Me</h1>
             <p class="max-w-[600px]">UI/UX designer that possesses a solid combination of hard and soft skills. proficient in using industry-
 standard design tools to create interfaces that are both aesthetically pleasing and user-friendly. Skilled at
@@ -60,19 +62,21 @@ merging creativity with data-driven decisions to provide exceptional user experi
             <IconsDownload />
             Download Resume</a>
         </div>
+        </div>
+        
     </div>
 
     <!--services section-->
-    <div class="flex justify-center mb-36">
+    <div class="flex justify-center mx-[14px] mb-36">
         <div class="flex gap-[16px] flex-col justofy-center">
             <h3 class="font-semibold text-center">- What I do</h3>
             <h1 class="font-bold text-xl">My Services</h1>
-            <div class="grid grid-cols-1 md:grid-cols-3 max-w-[900px] gap-[16px] mx-[16px]">
+            <div class="grid grid-cols-1 md:grid-cols-3 min-w-[350px] max-w-[900px] gap-[16px] px-[8px]">
                 <div class="font-semibold md:w-[250px] border-2 border-black rounded-lg p-[8px] hover:bg-black hover:text-white gap-[8px]">
                     <IconsDesign />
                     <p>Creative Design</p>
                 </div>
-                <div class="font-semibold w-[450px] md:w-[250px] border-2 border-black rounded-lg p-[8px] hover:bg-black hover:text-white gap-[8px]">
+                <div class="font-semibold md:w-[250px] border-2 border-black rounded-lg p-[8px] hover:bg-black hover:text-white gap-[8px]">
                     <IconsBranding />
                     <p>Branding</p>
                 </div>
@@ -96,14 +100,14 @@ merging creativity with data-driven decisions to provide exceptional user experi
         </div>
     </div>
     <!--Technology section-->
-    <div class="flex justify-center my-24">
+    <div class="flex justify-center mx-[18px] my-24">
         <div class="flex flex-col gap-[16px]">
             <h3 class="font-semibold text-center">- Technologies</h3>
             <h1 class="font-bold text-xl">What I can work with</h1>
             <div class="flex flex-col justify-center">
                 <div class="flex flex-col gap-[16px]">
                     <p class="font-bold text-lg">Communication</p>
-                    <div class="grid gap-[18px] place-items-center grid-cols-2 md:grid-cols-6 max-w-[200px] md:max-w-[650px]">
+                    <div class="grid gap-[18px] justify-center place-items-center grid-cols-3 md:grid-cols-6 ">
                         <div class="font-semibold flex flex-col justify-center items-center w-[100px] border-2 border-black rounded-xl p-[8px] hover:bg-black hover:text-white gap-[8px]">
                             <IconsSlack />
                             <p>Slack</p>
@@ -124,12 +128,16 @@ merging creativity with data-driven decisions to provide exceptional user experi
                             <IconsSlack />
                             <p>MS Meet</p>
                         </div>
+                        <div class="font-semibold flex flex-col justify-center items-center w-[100px] border-2 border-black rounded-xl p-[8px] hover:bg-black hover:text-white gap-[8px]">
+                            <IconsSlack />
+                            <p>MS Meet</p>
+                        </div>
                     </div>
                 </div>
 
-                <div class="flex flex-col gap-[16px] max-w-[900px]">
+                <div class="flex flex-col gap-[18px] max-w-[900px]">
                     <p class="font-bold text-lg">Design</p>
-                    <div class="grid grid-cols-1 md:grid-cols-3 gap-[16px] px-[16px] mx-[16px]">
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-[16px]  px-[8px]">
                         <div class="font-bold text-3xl flex flex-row items-center md:w-[250px] md:h-[160px] border-2 border-black rounded-lg p-[8px] hover:bg-black hover:text-white gap-[8px]">
                             <div><img src="/public/figma.png" alt="figma-img" height="250" width="250" loading="lazy"> </div>
                             <p>Figma</p>
